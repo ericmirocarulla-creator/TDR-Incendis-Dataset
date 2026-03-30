@@ -1,1 +1,6 @@
+path: /content/datasets
+train: Images
+val: Images
 
+nc: 3
+names: ['Vidre', 'Cigarrets', 'Fullaraca']
